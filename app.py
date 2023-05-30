@@ -1,3 +1,3 @@
 import gradio as gr
 
-gr.Interface(lambda x:x, "textbox", "textbox", title="test").launch()
+gr.Interface(lambda x:x, "textbox", "textbox", title="test updated").launch()
